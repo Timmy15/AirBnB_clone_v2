@@ -144,8 +144,8 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 ```diff
 
-+ Authors[first]: Osiyoku Oluwatimilehin Olusegun
-+ Authors[second]: Empress Moses Stephanie
++ Authors[first]: Jude Ehimigbai
++ Authors[second]: Oluwaseun Afolabi
  
 ```
 
